@@ -1,0 +1,498 @@
+/*
+* Portmoni Boostrap 4 Template
+*/
+
+/* -- General ---------------------------------------------------- */
+
+html {
+  overflow-x: hidden;
+}
+
+section {
+  padding: 60px 0 60px 0;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+h5 {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.item-page h1 {
+  font-size: 30px;
+}
+.item-page h2 {
+  font-size: 26px;
+}
+.item-page h3 {
+  font-size: 20px;
+}
+
+p {
+  line-height: 26px;
+}
+
+section li {
+  margin-bottom: 5px;
+}
+
+h2 a {
+  color: #333;
+}
+h3 a {
+  color: #333;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.text-whatsapp {
+  color: #4CA734;
+}
+
+.font-12 {font-size: 12px;}
+.font-14 {font-size: 14px;}
+.font-16 {font-size: 16px;}
+.font-18 {font-size: 18px;}
+.font-20 {font-size: 20px;}
+.font-30 {font-size: 30px;}
+
+.font-lg {font-size: 20px;}
+
+/* for correct lazy loading of images in Microsoft Edge */
+img[data-src],
+img[data-srcset] {
+  display: block;
+  min-height: 1px;
+}
+
+.form-check-label {
+  margin-bottom: .5rem;
+}
+
+.bg-grey {
+  background-color: #CDCDCD;
+}
+.bg-light-grey {
+  background-color: #F8F8F8;
+}
+
+.bg-light h2 {
+  color: black;
+}
+.bg-dark h2 {
+  color: #fff;
+}
+.bg-custom h2 {
+  color: #fff;
+}
+
+.nbsp {
+  white-space: nowrap;
+}
+
+.dropdown-menu .nav-link {
+  font-size: 14px;
+}
+.yellow {
+  color: #FFC400;
+}
+#reviews-section {
+  scroll-margin-top: 150px;
+}
+
+/* modifiers added using ckeditor */
+.text-tiny {
+    font-size: .7em;
+}
+.text-small {
+    font-size: .85em;
+}
+.text-big {
+    font-size: 1.4em;
+}
+.text-huge {
+    font-size: 1.8em;
+}
+figure.image img {
+    max-width: 100%;
+    height: auto;
+}
+figure.image-style-align-left {
+    float: left;
+}
+figure.image-style-align-right {
+    float: right;
+}
+figure.image-style-block-align-left {
+    text-align: left;
+}
+figure.image-style-align-center {
+    text-align: center;
+    margin: auto;
+}
+figure.image-style-block-align-right {
+    text-align: right;
+}
+
+.form-control {
+  font-size: inherit !important;
+}
+
+/* -- Header  ---------------------------------------------------- */
+
+
+/* -- Section ---------------------------------------------------- */
+
+
+/* -- Buttons ---------------------------------------------------- */
+
+.btn {
+  font-size: inherit !important;
+}
+
+.btn-common {
+  font-size: 14px;
+  padding: 11px 40px;
+  font-weight: 400;
+  display: inline-block;
+  border: 1px solid #fff;
+  position: relative;
+  border-radius: 30px;
+}
+
+.btn-grey {
+    background-color: #F7F7F7;
+    border-color: #CDCDCD;
+}
+.btn-grey:hover,
+.btn-grey:focus {
+    background-color: #DFDFDF;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+}
+
+.btn-whatsapp {
+  color: #fff;
+  background-color: #4CA734;  /* #25D366 */
+  border-color: #fff;
+  border-width: 1px;
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
+}
+.btn-whatsapp:hover {
+  color: #fff;
+  background-color: #25D366;  /* #25D366 */
+  border-color: #fff;
+  border-width: 1px;
+}
+
+/* -- Checkout cart ---------------------------------------------------- */
+
+#checkout-cart h1 {
+  font-size: 30px;
+}
+#checkout-cart h2 {
+  font-size: 24px;
+  text-transform: none;
+}
+
+/* -- Photo gallery ------------------------------------------------- */
+
+.owl-theme .owl-controls {
+  margin-top: 20px;
+}
+
+/* -- Media files ------------------------------------------------- */
+
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/* -- Social Icons ---------------------------------------------------- */
+
+.social-icons {
+  margin-top: 40px;
+}
+
+.social-icons ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-icons ul li {
+  display: inline;
+}
+
+.social-icons ul li a {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  border-radius: 50%;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  background: #ddd;
+  font-size: 16px;
+}
+.social-icons ul li a:hover {
+  color: #fff;
+}
+
+.facebook a {
+  color: #4867AA;
+}
+.facebook a:hover {
+  background: #4867AA;
+}
+
+.twitter a {
+  color: #1DA1F2;
+}
+.twitter a:hover {
+  background: #1DA1F2;
+}
+
+.youtube a {
+  color: #DF2926;
+}
+.youtube a:hover {
+  background: #DF2926;
+}
+
+.linkedin a {
+  color: #007BB6;
+}
+.linkedin a:hover {
+  background: #007BB6;
+}
+
+.pinterest a {
+  color: #BD081C;
+}
+.pinterest a:hover {
+  background: #BD081C;
+}
+
+/* -- Footer Style ------------------------------------------------- */
+
+footer {
+  color: #fff;
+  background: #292f35;
+  padding: 20px 0;
+}
+
+/* -- Scroll To Top ---------------------------------------------------- */
+
+.back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  z-index: 3;
+}
+
+.back-to-top-with-wa {
+  bottom: 75px !important; /* 15px bottom to whatsapp icon + 50px whatsapp icon size + 10px margin */
+  right: 20px !important; /* 15px right to whatsapp icon + (50px/2 - 40px/2) = 5px to center it  */
+}
+
+.back-to-top i {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #999999;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+.whatsapp-shortcut {
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  z-index: 3;
+}
+
+
+/* -- Parsley validation  ------------------------------------------- */
+
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+  color: #468847;
+  background-color: #DFF0D8;
+  border: 1px solid #D6E9C6;
+}
+
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border: 1px solid #EED3D7;
+}
+
+.parsley-errors-list {
+  margin: 10px 0 10px;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  line-height: 0.9em;
+  opacity: 0;
+  color: #B94A48;
+}
+
+.parsley-errors-list.filled {
+  opacity: 1;
+}
+
+
+/* ==========================================================================
+   Responsive
+ ========================================================================== */
+
+/* tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+  h1 {
+    font-size: 36px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 26px;
+  }
+  h4 {
+    font-size: 18px;
+  }
+  .item-page h1 {
+    font-size: 30px;
+  }
+  .item-page h2 {
+    font-size: 26px;
+  }
+  .item-page h3 {
+    font-size: 20px;
+  }
+  .font-lg {
+    font-size: 20px;
+  }
+}
+
+/* mobile */
+@media (max-width: 767px) {
+  section {
+    padding: 50px 0 50px 0;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    font-size: 18px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+  .item-page h1 {
+    font-size: 24px;
+  }
+  .item-page h2 {
+    font-size: 20px;
+  }
+  .item-page h3 {
+    font-size: 16px;
+  }
+  .font-lg {
+    font-size: 18px;
+  }
+  .controls {
+    margin: 0px;
+  }
+  .controls .btn {
+    font-size: 13px;
+    padding: 7px 7px;
+  }
+  .contact-us {
+    margin-top: 30px;
+  }
+  .contact-us h3 {
+    font-size: 28px;
+  }
+  footer {
+    padding-right: 45px;
+  }
+  .whatsapp-shortcut {
+    bottom: 15px;
+  }
+}
+
+/* small devices */
+@media (max-width: 358px) {
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    font-size: 18px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+}

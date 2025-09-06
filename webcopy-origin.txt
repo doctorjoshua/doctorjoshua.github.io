@@ -1,0 +1,356 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.6/css/star-rating.min.css
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\bootstrap-star-rating\4.0.6\css\star-rating.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.6/img/loading.gif
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\bootstrap-star-rating\4.0.6\img\loading.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\jquery\2.2.4\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/parsley.js/2.9.2/parsley.min.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\parsley.js\2.9.2\parsley.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Readmore.js/2.2.1/readmore.min.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\Readmore.js\2.2.1\readmore.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\twitter-bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\twitter-bootstrap\4.3.1\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/12.0.3/lazyload.min.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\ajax\libs\vanilla-lazyload\12.0.3\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=fallback
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://media.portmoni.com/resized/101872/470172077_122132197196435779_5274768225104476999_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\470172077_122132197196435779_5274768225104476999_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/470187523_122132328770435779_7354578316208411644_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\470187523_122132328770435779_7354578316208411644_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/470196820_122132328230435779_1311819655712211365_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\470196820_122132328230435779_1311819655712211365_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/470200909_122132328050435779_1425517454800568823_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\470200909_122132328050435779_1425517454800568823_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/472774116_122137577174435779_1362521072062266678_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\472774116_122137577174435779_1362521072062266678_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/475478489_122141893598435779_2293121557595158211_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\475478489_122141893598435779_2293121557595158211_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/475891913_122141718056435779_7614754143606747601_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\475891913_122141718056435779_7614754143606747601_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/476279911_122141704466435779_4849243230279426133_n-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\476279911_122141704466435779_4849243230279426133_n-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/476428766_122141887994435779_4585296343169696839_n-thumbnail-1024x1024-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\476428766_122141887994435779_4585296343169696839_n-thumbnail-1024x1024-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/African_Psychic_Readings_Face_to_Face__By_Psychic_Joshua-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\African_Psychic_Readings_Face_to_Face__By_Psychic_Joshua-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/African_Psychic_Readings_Face_to_Face__By_Psychic_Joshua_O6PE8nD-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\African_Psychic_Readings_Face_to_Face__By_Psychic_Joshua_O6PE8nD-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Bad_Curse_and_Jealousy_Removal_Using_Burning_Sage_and_Black_Candles-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Bad_Curse_and_Jealousy_Removal_Using_Burning_Sage_and_Black_Candles-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Binding_Love_Spells_using_Green_Candles-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Binding_Love_Spells_using_Green_Candles-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Bring_Back_Lost_Lover_Rituals_using_Red_Candles_by_Sangoma-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Bring_Back_Lost_Lover_Rituals_using_Red_Candles_by_Sangoma-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Bring_Back_Lost_Lover_Rituals_using_Red_Candles_by_Sangoma_1-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Bring_Back_Lost_Lover_Rituals_using_Red_Candles_by_Sangoma_1-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Court_Case_Problems_using_burning_candles-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Court_Case_Problems_using_burning_candles-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/download_3-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\download_3-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/download_4-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\download_4-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/images_11-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\images_11-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/images_12-thumbnail-600x600-95.jpeg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\images_12-thumbnail-600x600-95.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Most_Powerful_And_Effective_Dua_For_Love_Using_White_Candles-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Most_Powerful_And_Effective_Dua_For_Love_Using_White_Candles-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Powerful_Love_Spells_Using_Candles_And_Burning_Sage-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Powerful_Love_Spells_Using_Candles_And_Burning_Sage-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Powerful_Love_Spells_Using_Candles_And_Burning_Sage_1-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Powerful_Love_Spells_Using_Candles_And_Burning_Sage_1-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://media.portmoni.com/resized/101872/Traditional_marriage_Spells_in_South_Africa-thumbnail-600x600-95.jpg
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\resized\101872\Traditional_marriage_Spells_in_South_Africa-thumbnail-600x600-95.jpg
+Content Type: image/jpeg
+
+Uri: https://static.portmoni.com/static/builder/websites/css/main.85928622f527.css
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\css\main.85928622f527.css
+Content Type: text/css
+
+Uri: https://static.portmoni.com/static/builder/websites/img/favicon-61D2B4.42491a39ba93.png
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\img\favicon-61D2B4.42491a39ba93.png
+Content Type: image/png
+
+Uri: https://static.portmoni.com/static/builder/websites/js/comments.420a82800d39.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\js\comments.420a82800d39.js
+Content Type: text/javascript
+
+Uri: https://static.portmoni.com/static/builder/websites/js/contact-form-script.f3ccce02a60f.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\js\contact-form-script.f3ccce02a60f.js
+Content Type: text/javascript
+
+Uri: https://static.portmoni.com/static/builder/websites/js/drift.min.f6466c14df69.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\js\drift.min.f6466c14df69.js
+Content Type: text/javascript
+
+Uri: https://static.portmoni.com/static/builder/websites/js/main.1629020c9b56.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\js\main.1629020c9b56.js
+Content Type: text/javascript
+
+Uri: https://static.portmoni.com/static/builder/websites/js/reviews.8602f78bd87b.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\builder\websites\js\reviews.8602f78bd87b.js
+Content Type: text/javascript
+
+Uri: https://static.portmoni.com/static/common/img/whatsapp-logo-green.5a1580cc3144.png
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\common\img\whatsapp-logo-green.5a1580cc3144.png
+Content Type: image/png
+
+Uri: https://static.portmoni.com/static/promote/js/promote.c37bce100977.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\promote\js\promote.c37bce100977.js
+Content Type: text/javascript
+
+Uri: https://static.portmoni.com/static/shop/js/cart.6615048c8573.js
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\static\shop\js\cart.6615048c8573.js
+Content Type: text/javascript
+
+Uri: https://www.psychic-joshua.co.za/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/about/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\about\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/contact/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/gallery/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\gallery\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/bad-curse-and-jealousy-removal/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\bad-curse-and-jealousy-removal\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/cheating-and-affairs/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\cheating-and-affairs\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/family-relationship-problem/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\family-relationship-problem\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/financial-business-problems/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\financial-business-problems\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/my-first-blog-post-example/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\my-first-blog-post-example\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/posts/voodoo-removal/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\posts\voodoo-removal\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/?s=
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index-1.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/?s=-name
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index-5.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/?s=-price
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index-3.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/?s=name
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index-4.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/?s=price
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index-2.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/?s=rating
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\index-6.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/black-magic-removal/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\black-magic-removal\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/court-case-problems/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\court-case-problems\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/husband-and-wife-dispute/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\husband-and-wife-dispute\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/job-protection-and-career/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\job-protection-and-career\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/my-first-product-example/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\my-first-product-example\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/negative-energy-removal-specialist/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\negative-energy-removal-specialist\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/voodoo-spells-that-really-work-to-fix-your-love-pr/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\voodoo-spells-that-really-work-to-fix-your-love-pr\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/products/witchcraft-removal/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\products\witchcraft-removal\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/search/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\search\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/binding-love-spells/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\binding-love-spells\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/marriage-commitment-spells/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\marriage-commitment-spells\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/marriage-spells/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\marriage-spells\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/my-first-service-example/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\my-first-service-example\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/psychic-readings-face-to-face/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\psychic-readings-face-to-face\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/psychic-readings-for-your-career/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\psychic-readings-for-your-career\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/relationship-psychic-readings/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\relationship-psychic-readings\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/stop-a-divorce-spells/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\stop-a-divorce-spells\index.htm
+Content Type: text/html
+
+Uri: https://www.psychic-joshua.co.za/services/stop-cheating-spells/
+File Name: C:\Downloaded Web Sites\www.psychic-joshua.co.za\services\stop-cheating-spells\index.htm
+Content Type: text/html
+
